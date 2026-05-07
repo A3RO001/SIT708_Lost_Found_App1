@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LostFoundApp</string>
+    <string name="report_lost_item">Report Lost Item</string>
+    <string name="report_found_item">Report Found Item</string>
+    <string name="lost_items">Lost Items</string>
+    <string name="found_items">Found Items</string>
+    <string name="upload_image_first">Please upload an image first</string>
+    <string name="item_saved">Item Saved!</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="delete_confirm">Are you sure you want to delete this item?</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="back_to_home">Back to Home</string>
+</resources>
