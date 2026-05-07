@@ -65,6 +65,6 @@ This is a Lost and Found mobile application developed using Kotlin in Android St
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Anay Jayakumar
